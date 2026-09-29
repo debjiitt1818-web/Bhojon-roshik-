@@ -1,0 +1,6 @@
+{
+  "name": "ভোজন রসিক - Bhojon Roshik | Kolkata Kitchen",
+  "description": "Authentic homemade and dhaba delicacies by Manisha Ganguly. Advance 2-day pre-order serving Kankurgachi, Salt Lake, Ultadanga, and New Town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
